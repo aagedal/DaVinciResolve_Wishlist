@@ -30,7 +30,7 @@ My wishlist for improvements to DaVinci Resolve after version 19 being released 
 - [ ] HDR image formats in general. Both ISO HDR and Gain Map HDR.
 
 ## Editing
-- [ ] Being able to quickly change the source audio track used in the inspector, if I only edited one of the source tracks into the timeline.
+- [x] ~~Being able to quickly change the source audio track used in the inspector, if I only edited one of the source tracks into the timeline.~~ Added in Resolve 19.1
 - [ ] New edit layout for vertical video: moving viewer to the right and spanning the entire height of the window. Either that or option to pop out a viewer as a separate window.
 - [ ] ML Assisted Voice Editing? "Find some B-roll clip in my mediabin to hide the jumpcuts in this scene." or "I need this scene to be less than 2 minutes, can you cut it down for me?"
 
