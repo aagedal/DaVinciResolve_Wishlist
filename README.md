@@ -18,7 +18,7 @@ My wishlist for improvements to DaVinci Resolve after version 19 being released 
 - [ ] VVC (not that high on my list this year, but maybe in a year or two)
 
 ## Audio Codecs
-- [ ] Opus (it is free and open source, why not?)
+- [ ] Opus inside webm and mkv
 - [ ] AAC on Linux
 
 ## Image Codecs
