@@ -6,6 +6,7 @@ My wishlist for improvements to DaVinci Resolve after version 19 being released 
 - [ ] Exporting a complete project template that can be installed with Double Clicking. Including: Project Settings, Fusion Templates, Export Templates, Subtitle Templates, Python Scripts, fonts.
 - [ ] Syncing/Distributing complete project templates with Blackmagic Cloud. With public and private subscriptions to a template. Public useful for web community. Private for corporations.
 - [ ] C2PA support! both import and export. Important for the future of photojournalism.
+- [ ] Native support for stabilizing using Sony Alpha gyro data
 
 ## Export
 - [ ] Export Current Frame as Still **with** Color Profile metadata, and option to retain original file metadata.
@@ -28,6 +29,7 @@ My wishlist for improvements to DaVinci Resolve after version 19 being released 
 - [ ] AVIF
 - [ ] WebP
 - [ ] HDR image formats in general. Both ISO HDR and Gain Map HDR.
+- [ ] If editing images with IPTC metadata, main that metadata on export of individual clips/images.
 
 ## Editing
 - [x] ~~Being able to quickly change the source audio track used in the inspector, if I only edited one of the source tracks into the timeline.~~ Added in Resolve 19.1
