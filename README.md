@@ -1,4 +1,4 @@
-# Blackmagic DaVinci Resolve Wishlist for 2024 and beyond
+# Blackmagic DaVinci Resolve Wishlist for 2025 and beyond
 My wishlist for improvements to DaVinci Resolve after version 19 being released in 2024. The new version adds many great tools and improvements, but some things are still lacking. Some items here are just wishful thinking or ideas about what can be in the future.
 
 
