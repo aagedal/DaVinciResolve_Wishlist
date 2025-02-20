@@ -9,7 +9,12 @@ My wishlist for improvements to DaVinci Resolve after version 19 being released 
 - [ ] Native support for stabilizing using Sony Alpha gyro data
 
 ## Export
-- [ ] Export Current Frame as Still **with** Color Profile metadata, and option to retain original file metadata.
+- [ ] Export Current Frame as Still **with** embedded Color Space metadata
+- [ ] Option to Export Current Frame as Still at souce resolution, while also retain original IPTC metadata of a source still.
+- [ ] Being able to export JPEG XL.
+- [ ] Being able to export TIFF, EXR, JPEG XL, PNG with embedded Color Space/Profile and gamma metadata. Especially useful for exporting HDR images.
+- [ ] Being able to export animated AVIF.
+- [ ] Being able to export AV1.
 
 ## Media Page
 - [ ] Being able to see and edit IPTC and EXIF metadata of images
