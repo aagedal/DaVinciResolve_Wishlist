@@ -35,6 +35,7 @@ My wishlist for improvements to DaVinci Resolve after version 19 being released 
 - [ ] WebP
 - [ ] HDR image formats in general. Both ISO HDR and Gain Map HDR.
 - [ ] If editing images with IPTC metadata, main that metadata on export of individual clips/images.
+- [ ] Better support for lossy DNG files.
 
 ## Editing
 - [x] ~~Being able to quickly change the source audio track used in the inspector, if I only edited one of the source tracks into the timeline.~~ Added in Resolve 19.1
