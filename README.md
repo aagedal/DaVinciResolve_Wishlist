@@ -7,6 +7,7 @@ My wishlist for improvements to DaVinci Resolve after version 19 being released 
 - [ ] Syncing/Distributing complete project templates with Blackmagic Cloud. With public and private subscriptions to a template. Public useful for web community. Private for corporations.
 - [ ] C2PA support! both import and export. Important for the future of photojournalism.
 - [ ] Native support for stabilizing using Sony Alpha gyro data
+- [ ] Extended support for growing files, and ability to select custom refresh interval.
 
 ## Export
 - [ ] Export Current Frame as Still **with** embedded Color Space metadata
